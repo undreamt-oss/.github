@@ -1,218 +1,86 @@
 <div align="center">
 
-<img width="552" height="512" alt="undreamt" src="https://github.com/user-attachments/assets/82480929-3eb5-491c-bb17-0c3925d5c8d8" />
+  <img width="560" height="320" alt="560 × 320" src="https://github.com/user-attachments/assets/7c3b736e-8ab3-45fa-b1ee-e893277a346d" /><svg width="560" height="320" viewBox="0 0 560 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="560" height="320" rx="160" fill="url(#paint0_linear_94_16)"/>
+<circle cx="400" cy="160" r="128" fill="url(#paint1_linear_94_16)"/>
+<path d="M400 94C410.371 134.071 425.929 149.629 466 160C425.929 170.371 410.371 185.929 400 226C389.629 185.929 374.071 170.371 334 160C374.071 149.629 389.629 134.071 400 94Z" fill="white"/>
+<circle cx="140" cy="160" r="20" fill="#A057FB"/>
+<defs>
+<linearGradient id="paint0_linear_94_16" x1="0" y1="160" x2="560" y2="160" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2C1450"/>
+<stop offset="1" stop-color="#58239E"/>
+</linearGradient>
+<linearGradient id="paint1_linear_94_16" x1="400" y1="32" x2="400" y2="288" gradientUnits="userSpaceOnUse">
+<stop stop-color="#AF6BFF"/>
+<stop offset="1" stop-color="#8B3EF7"/>
+</linearGradient>
+</defs>
+</svg>
 
 # Undreamt
 
-### Building what has not yet been built.
+### Building what we dream
 
-Open-source organization focused on developer tooling, educational platforms, frameworks, infrastructure, artificial intelligence, and long-term software ecosystems.
+An early-stage, community-led technology initiative exploring software, education, infrastructure, and emerging fields.
+
+[Website](https://undreamt.in) · [Instagram](https://www.instagram.com/undreamt_hq/) · [Discord](https://discord.gg/jMPraFRht)
 
 </div>
 
 ---
 
-# About
+## About
 
-Undreamt exists as a home for experimentation, learning, and engineering.
+Undreamt is a growing community for people who want to learn, explore ideas, and build useful things with technology.
 
-Rather than focusing on a single product, Undreamt develops a collection of projects that explore software architecture, developer experience, education, infrastructure, automation, and intelligent systems.
+We are starting as a small, open initiative. Our interests span software, education, infrastructure, and emerging fields, rather than a single product or technology. We share what we make and learn, invite others to take part, and let the community and its work develop over time.
 
-Our goal is simple:
+Undreamt is at the beginning of that journey. Our projects, priorities, and ways of working will continue to take shape as we learn and collaborate.
 
-> Build useful software, share what we learn, and create foundations that help others build, learn, and experiment.
+## Areas of Interest
 
-We believe ambitious ideas should be explored openly, thoughtfully, and with a focus on long-term maintainability.
+Our community is interested in:
 
----
+- Software and developer tools
+- Cloud-native systems and infrastructure
+- Artificial intelligence and agent systems
+- Education and technical learning
+- Knowledge and information systems
+- Research, experimentation, and open-source collaboration
 
-# Philosophy
+These interests may evolve as the community grows.
 
-We believe software should be:
+## How We Work
 
-* Learnable
-* Modular
-* Extensible
-* Developer-first
-* Open by default
-* Built in public
+We want our work to be useful, understandable, and welcoming to contributors. We value:
 
-We value:
+- **Learning in public:** Share progress, questions, and lessons as we go.
+- **Thoughtful engineering:** Prefer clear design, secure defaults, and maintainable code.
+- **Practical work:** Explore ideas by building and improving real things.
+- **Open collaboration:** Make it easier for people to participate and contribute.
+- **Simplicity:** Choose approaches that solve the problem without unnecessary complexity.
+- **Honesty about maturity:** Be clear about what is experimental, in progress, and ready to use.
 
-* Clean architecture
-* Strong foundations
-* Thoughtful engineering
-* Long-term maintainability
-* Continuous learning
-* Open collaboration
+## Open Source
 
-Technology evolves quickly.
+Open source is one way we learn and build together. Contributions can include code, documentation, design, testing, research, feedback, or helping others get started.
 
-Good engineering principles endure.
+Each repository may have its own contribution guidance and development status. Please read that guidance before contributing. We welcome constructive participation and expect respectful collaboration.
 
----
+## Community
 
-# Ecosystem
+Undreamt is for developers, learners, educators, researchers, designers, and curious people who want to explore technology together.
 
-Undreamt is developing a growing ecosystem of projects across multiple domains.
+You do not need to be an expert to join in. Reporting an issue, asking a question, improving a guide, testing a change, or sharing an idea can all help the community move forward.
 
-### Orbit
+## Where We Are
 
-Enterprise-grade application platform built on FastAPI.
-
-Focused on:
-
-* Application architecture
-* Developer tooling
-* Authentication
-* Database integration
-* Administration tooling
-* Observability
-* Modern Python development
+Undreamt is just getting started. The community and its work are still taking shape; some ideas are experiments, and others may grow into longer-term efforts. We will share progress and adjust as we learn.
 
 ---
 
-### Point
+<div align="center">
 
-Educational authoring language and documentation ecosystem.
+**Learn together. Build openly. Keep exploring.**
 
-Focused on:
-
-* Structured learning content
-* Documentation systems
-* Knowledge organization
-* Educational publishing
-* Learning platforms
-
----
-
-### Learn Undreamt
-
-Educational platform dedicated to teaching software engineering, architecture, open-source development, and ecosystem technologies through practical learning resources.
-
----
-
-### Future Projects
-
-Undreamt actively explores new ideas in:
-
-* Artificial intelligence
-* Agent systems
-* Developer platforms
-* Infrastructure tooling
-* Knowledge systems
-* Research projects
-* Open-source ecosystems
-
-Not every experiment becomes a product.
-
-Every experiment teaches something valuable.
-
----
-
-# Areas of Interest
-
-Undreamt explores domains including:
-
-* Developer tooling
-* Educational technology
-* Artificial intelligence
-* Agent systems
-* Framework architecture
-* Infrastructure engineering
-* Automation platforms
-* Knowledge systems
-* Research projects
-* Open-source ecosystems
-
-The technologies may evolve, but the mission remains the same:
-
-> Build useful systems and share the journey.
-
----
-
-# Community
-
-Undreamt welcomes:
-
-* Developers
-* Students
-* Researchers
-* Designers
-* Writers
-* Builders
-* Open-source contributors
-
-You do not need to be an expert to contribute.
-
-Curiosity, experimentation, and a willingness to learn are enough.
-
-Whether you're fixing documentation, testing software, proposing ideas, or building new features, contributions of all sizes are valuable.
-
----
-
-# Vision
-
-Undreamt is being built as a long-term ecosystem of software, educational resources, developer tools, and communities.
-
-We want to create projects that are:
-
-* Useful
-* Educational
-* Well engineered
-* Open and collaborative
-* Built for the long term
-
-Our ambition is not simply to create software.
-
-Our ambition is to create foundations that help others learn, build, experiment, and grow.
-
----
-
-# Principles
-
-As the ecosystem grows, we aim to remain guided by a small set of principles:
-
-### Build in Public
-
-Share progress, failures, lessons, and ideas openly.
-
-### Learn Continuously
-
-Treat every project as an opportunity to learn and improve.
-
-### Prefer Simplicity
-
-Simple systems scale further than unnecessary complexity.
-
-### Invest in Foundations
-
-Good architecture and maintainability matter more than short-term speed.
-
-### Empower Builders
-
-Create tools and resources that help others build their own ideas.
-
----
-
-# Status
-
-Undreamt is currently in its early stages.
-
-Projects are actively evolving and many ideas remain experimental.
-
-Architectures, APIs, and implementations may change as the ecosystem matures.
-
-We build in public, iterate continuously, and learn along the way.
-
----
-
-# Join the Journey
-
-Undreamt is an open invitation to builders, learners, and curious minds.
-
-If you enjoy exploring new ideas, building software, teaching others, or contributing to open-source projects, we'd love to have you involved.
-
-The best ideas are often the ones that have not yet been imagined.
-
-Let's build them together.
+</div>
