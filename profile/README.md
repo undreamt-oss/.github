@@ -23,7 +23,12 @@
 
 An early-stage, community-led technology initiative exploring software, education, infrastructure, and emerging fields.
 
-[Instagram](https://www.instagram.com/undreamt_hq/) · [Discord](https://discord.gg/jMPraFRht) · [Youtube](https://youtube.com/@undreamt-hq) · [Linkedin](https://www.linkedin.com/company/undreamt-hq/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/undreamt_hq/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jMPraFRht)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@undreamt-hq)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/undreamt_hq)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranav@undreamt.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/manglikpranav](https://www.linkedin.com/company/undreamt-hq/))
 
 </div>
 
