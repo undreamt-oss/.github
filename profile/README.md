@@ -23,7 +23,7 @@
 
 An early-stage, community-led technology initiative exploring software, education, infrastructure, and emerging fields.
 
-[Website](https://undreamt.in) · [Instagram](https://www.instagram.com/undreamt_hq/) · [Discord](https://discord.gg/jMPraFRht)
+[Instagram](https://www.instagram.com/undreamt_hq/) · [Discord](https://discord.gg/jMPraFRht) · [Youtube](https://youtube.com/@undreamt-hq) · [Linkedin](https://www.linkedin.com/company/undreamt-hq/) 
 
 </div>
 
