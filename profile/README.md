@@ -1,21 +1,5 @@
 <div align="center">
 
-<svg width="560" height="320" viewBox="0 0 560 320" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="560" height="320" rx="160" fill="url(#paint0_linear_94_16)"/>
-<circle cx="400" cy="160" r="128" fill="url(#paint1_linear_94_16)"/>
-<path d="M400 94C410.371 134.071 425.929 149.629 466 160C425.929 170.371 410.371 185.929 400 226C389.629 185.929 374.071 170.371 334 160C374.071 149.629 389.629 134.071 400 94Z" fill="white"/>
-<circle cx="140" cy="160" r="20" fill="#A057FB"/>
-<defs>
-<linearGradient id="paint0_linear_94_16" x1="0" y1="160" x2="560" y2="160" gradientUnits="userSpaceOnUse">
-<stop stop-color="#2C1450"/>
-<stop offset="1" stop-color="#58239E"/>
-</linearGradient>
-<linearGradient id="paint1_linear_94_16" x1="400" y1="32" x2="400" y2="288" gradientUnits="userSpaceOnUse">
-<stop stop-color="#AF6BFF"/>
-<stop offset="1" stop-color="#8B3EF7"/>
-</linearGradient>
-</defs>
-</svg>
 <img width="560" height="320" alt="undreamt-logo" src="https://github.com/user-attachments/assets/e4783766-c94a-43ab-9a10-2644118e5380" />
 
 # Undreamt
@@ -29,7 +13,7 @@ An early-stage, community-led technology initiative exploring software, educatio
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@undreamt-hq)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/undreamt_oss)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:community@undreamt.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/manglikpranav](https://www.linkedin.com/company/undreamt-oss/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/undreamt-oss/)
 
 </div>
 
@@ -39,7 +23,7 @@ An early-stage, community-led technology initiative exploring software, educatio
 
 Undreamt is a growing community for people who want to learn, explore ideas, and build useful things with technology.
 
-We are starting as a small, open initiative. Our interests span software, education, infrastructure, and emerging fields, rather than a single product or technology. We share what we make and learn, invite others to take part, and let the community and its work develop over time.
+We are starting as a small, open initiative. Our interests span software, education, infrastructure, and emerging fields, rather than a single product or technology. We share what we make and learn, i[...]
 
 Undreamt is at the beginning of that journey. Our projects, priorities, and ways of working will continue to take shape as we learn and collaborate.
 
@@ -81,7 +65,7 @@ You do not need to be an expert to join in. Reporting an issue, asking a questio
 
 ## Where We Are
 
-Undreamt is just getting started. The community and its work are still taking shape; some ideas are experiments, and others may grow into longer-term efforts. We will share progress and adjust as we learn.
+Undreamt is just getting started. The community and its work are still taking shape; some ideas are experiments, and others may grow into longer-term efforts. We will share progress and adjust as we l[...]
 
 ---
 
