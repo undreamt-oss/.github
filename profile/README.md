@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 <svg width="560" height="320" viewBox="0 0 560 320" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="560" height="320" rx="160" fill="url(#paint0_linear_94_16)"/>
 <circle cx="400" cy="160" r="128" fill="url(#paint1_linear_94_16)"/>
@@ -16,6 +16,7 @@
 </linearGradient>
 </defs>
 </svg>
+<img width="560" height="320" alt="undreamt-logo" src="https://github.com/user-attachments/assets/e4783766-c94a-43ab-9a10-2644118e5380" />
 
 # Undreamt
 
