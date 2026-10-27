@@ -1,6 +1,6 @@
 <div align="center">
-
-  <img width="560" height="320" alt="560 × 320" src="https://github.com/user-attachments/assets/7c3b736e-8ab3-45fa-b1ee-e893277a346d" /><svg width="560" height="320" viewBox="0 0 560 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  
+<svg width="560" height="320" viewBox="0 0 560 320" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="560" height="320" rx="160" fill="url(#paint0_linear_94_16)"/>
 <circle cx="400" cy="160" r="128" fill="url(#paint1_linear_94_16)"/>
 <path d="M400 94C410.371 134.071 425.929 149.629 466 160C425.929 170.371 410.371 185.929 400 226C389.629 185.929 374.071 170.371 334 160C374.071 149.629 389.629 134.071 400 94Z" fill="white"/>
